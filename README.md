@@ -4,19 +4,22 @@
 
 ```bash
 $ whoami
+
+I'm a .NET developer from the golden era of the '90s (you know, when dial-up internet and Tamagotchis
+ruled the world).
+
+My expertise spans across JavaScript, HTML, CSS, Angular, and Vue.js — because who doesn't love 
+juggling a few frameworks?
+
+When I’m not solving bugs that make me question my life choices, I'm probably out riding my gravel
+bike, pretending I’m in the Tour de France (spoiler: I’m not).
 ```
-
-I'm a **.NET developer** from the golden era of the '90s (you know, when dial-up internet and Tamagotchis ruled the world). My expertise spans across **JavaScript**, **HTML**, **CSS**, **Angular**, and **Vue.js** — because who doesn't love juggling a few frameworks?
-
-When I’m not solving bugs that make me question my life choices, I'm probably out riding my **gravel bike**, pretending I’m in the Tour de France (**spoiler**: *I’m not*).
 
 ---
 
 ```bash
 $ fun-facts
-```
 
-```bash
 - I started coding back when floppy disks were still a thing.
 - My bike is faster than your Wi-Fi (unless you're on fiber).
 - The most stable relationship I have is with my IDE.
@@ -26,10 +29,9 @@ $ fun-facts
 
 ```bash
 $ lets-connect
-```
 
-```bash
-If you're into tech, AI, cycling, or just need someone to share in your debugging misery, hit me up! Let's build something awesome — or at least try to fix that one bug we've been avoiding.
+If you're into tech, AI, cycling, or just need someone to share in your debugging misery,
+hit me up! Let's build something awesome — or at least try to fix that one bug we've been avoiding.
 ```
 
 <a href="mailto:politan@protonmail.com">![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)</a> <a href="mailto:politan3@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://x.com/politan3">![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)</a>
@@ -38,14 +40,13 @@ If you're into tech, AI, cycling, or just need someone to share in your debuggin
 
 ```bash
 $ skills-general
-```
 
-```bash
 - .NET – Writing code that's 90% functional and 10% “why does this even work?”
 - JavaScript – Mastering the art of writing code that works in mysterious ways (thanks, JS).
 - HTML/CSS – Crafting beautiful layouts that break as soon as I test them on Internet Explorer.
 - Angular/Vue.js – Because having one front-end framework isn't chaotic enough.
-- Enthusiast of AI (OpenAI & Claude) – always looking for ways to integrate intelligent solutions into development.
+- Enthusiast of AI (OpenAI & Claude) – always looking for ways to integrate intelligent 
+  solutions into development.
 ```
 
 ```bash

@@ -34,7 +34,8 @@ If you're into tech, AI, cycling, or just need someone to share in your debuggin
 hit me up! Let's build something awesome — or at least try to fix that one bug we've been avoiding.
 ```
 
-<a href="mailto:politan@protonmail.com">![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)</a> <a href="mailto:politan3@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://x.com/politan3">![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)</a>
+[![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:politan@protonmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:politan3@gmail.com) [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/politan3)
 
 ---
 

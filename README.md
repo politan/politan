@@ -23,6 +23,7 @@ $ fun-facts
 - I started coding back when floppy disks were still a thing.
 - My bike is faster than your Wi-Fi (unless you're on fiber).
 - The most stable relationship I have is with my IDE.
+- I break code for fun and fix it for survival (because security isn't just a buzzword).
 ```
 
 ---
@@ -30,7 +31,7 @@ $ fun-facts
 ```bash
 $ lets-connect
 
-If you're into tech, AI, cycling, or just need someone to share in your debugging misery,
+If you're into tech, AI, cycling, security (ethical hacking, anyone?) or just need someone to share in your debugging misery,
 hit me up! Let's build something awesome — or at least try to fix that one bug we've been avoiding.
 ```
 
@@ -48,6 +49,7 @@ $ skills-general
 - Angular/Vue.js – Because having one front-end framework isn't chaotic enough.
 - Enthusiast of AI (OpenAI & Claude) – always looking for ways to integrate intelligent 
   solutions into development.
+- Security Enthusiast – Passionate about keeping code safe, hunting for bugs, and breaking things (ethically, of course).
 ```
 
 ```bash

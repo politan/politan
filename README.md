@@ -47,7 +47,7 @@ $ skills-general
 - JavaScript – Mastering the art of writing code that works in mysterious ways (thanks, JS).
 - HTML/CSS – Crafting beautiful layouts that break as soon as I test them on Internet Explorer.
 - Angular/Vue.js – Because having one front-end framework isn't chaotic enough.
-- Enthusiast of AI (OpenAI & Claude) – always looking for ways to integrate intelligent 
+- Enthusiast of AI – always looking for ways to integrate intelligent 
   solutions into development.
 - Security Enthusiast – Passionate about keeping code safe, hunting for bugs, and breaking things (ethically, of course).
 ```
